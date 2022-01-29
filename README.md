@@ -10,7 +10,7 @@ Estos patrones proporcionan mecanismos de creación de objetos que incrementan l
 * Abstract Factory
 * Builder
 * Prototype
-* Singleton
+* [Singleton](Singleton/)
 
 
 ## Patrones estructurales
